@@ -6,6 +6,8 @@
 
 - Un entusiasta por los tutoriales y su aplicación a todos los proyectos que pueda desarrollar. Responsable, bastante organizado y muy cuidadoso con su forma de trabajar el código. Atento a los detalles, fan del trabajo en equipo y siempre listo para aprender cada nueva cosa que vaya saliendo en la internet sobre su nueva pasión: el Desarrollo Frontend.
 
+- Conocimientos en HTML5, CSS3 (Flexbox, CSS Grid, Mobile First, entre otros) e iniciando en el mundo de Javascript dispuesto a aprender y a practicar lo que sea necesario para aplicarlo en todos los proyectos requeridos.
+
 [![Juan Pablo github stats](https://github-readme-stats.vercel.app/api?username=juanptsanchez)](https://github.com/juanptsanchez/github-readme-stats&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanptsanchez&theme=vue)
